@@ -687,10 +687,10 @@
 
         <div class="box">
             <h3>contact info</h3>
-            <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-            <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-            <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-            <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+            <a href="#"> <i class="fas fa-phone"></i> +91 9018051083 </a>
+            <a href="#"> <i class="fas fa-phone"></i> +91 6239547673 </a>
+            <a href="#"> <i class="fas fa-envelope"></i> arishma290898gmail.com</a>
+            <a href="#"> <i class="fas fa-map"></i> jammu&kashmir 180010 </a>
         </div>
 
         <div class="box">
@@ -699,12 +699,12 @@
             <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
             <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
             <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
-            <a href="#"> <i class="fab fa-github"></i> github </a>
+            
         </div>
 
     </div>
 
-    <div class="credit">created by <span>mr. web designer</span> | all rights reserved!</div>
+    <div class="credit">created by <span>mr atri</span> | all rights reserved!</div>
 
 </section>
 
