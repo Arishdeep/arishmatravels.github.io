@@ -668,28 +668,22 @@
         <div class="box">
             <h3>quick links</h3>
             <a href="#home">home</a>
-            <a href="#about">about</a>
-            <a href="#shop">shop</a>
-            <a href="#packages">packages</a>
-            <a href="#reviews">reviews</a>
-            <a href="#blogs">blogs</a>
+            <a href="#about">Cheap air tickets India to USA</a>
+            <a href="#shop">Tour packages </a>
+            <a href="#packages">Domestic Tour Pakages</a>
+            <a href="#reviews">www.trustpilot.com</a>
+            <a href="#blogs">www.arishbloggers.in</a>
         </div>
 
         <div class="box">
-            <h3>extra links</h3>
-            <a href="#">my account</a>
-            <a href="#">my order</a>
-            <a href="#">my wishlist</a>
-            <a href="#">ask questions</a>
-            <a href="#">terms of use</a>
-            <a href="#">privacy policy</a>
+        
         </div>
 
         <div class="box">
             <h3>contact info</h3>
             <a href="#"> <i class="fas fa-phone"></i> +91 9018051083 </a>
             <a href="#"> <i class="fas fa-phone"></i> +91 6239547673 </a>
-            <a href="#"> <i class="fas fa-envelope"></i> arishma290898gmail.com</a>
+            <a href="#"> <i class="fas fa-envelope"></i> arishma290898@gmail.com</a>
             <a href="#"> <i class="fas fa-map"></i> jammu&kashmir 180010 </a>
         </div>
 
